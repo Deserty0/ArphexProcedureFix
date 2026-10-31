@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "git.deserty0.arphex_procedure_fix.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "RenderTest6ProcedureMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
